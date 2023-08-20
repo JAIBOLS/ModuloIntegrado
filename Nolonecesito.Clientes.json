@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "64e16099088605c51694c78e"
+  },
+  "Id_Cliente": 1,
+  "Telefono": {
+    "$numberLong": "3108395442"
+  },
+  "Direccion": "Calle 10 No. 5-20"
+},
+{
+  "_id": {
+    "$oid": "64e16099088605c51694c78f"
+  },
+  "Id_Cliente": 2,
+  "Telefono": {
+    "$numberLong": "3127547773"
+  },
+  "Direccion": "Carrera 12 10 No. 93-10"
+},
+{
+  "_id": {
+    "$oid": "64e16099088605c51694c790"
+  },
+  "Id_Cliente": 3,
+  "Telefono": {
+    "$numberLong": "3151239824"
+  },
+  "Direccion": "Calle 50 No. 95-10"
+}]
